@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     public Rigidbody2D ball;
     public bool isGrounded;
     public Vector2 jump;
-    public float jumpForce = 2.0f;
+    public float jumpForce = 5.0f;
 
 
 	// Use this for initialization
